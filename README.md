@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Cadence RTL-to-GDSII Flow v5.0**
 - 💻 Tools I frequently use: **Arduino, Raspberry Pi, MATLAB, Xilinx Vivado, Keil, Cadence**
 - 📫 Reach me at **akra22ece@cmrit.ac.in**
-- 📄 [My Resume](https://drive.google.com/file/d/1Fc4LHM-ccfVyzuIMqPR66UtNkoXHpDV9/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1JnVGK1N84EqXPa5cJTO1NskHSnOOqhw-/view?usp=drive_link)
 
 ---
 
