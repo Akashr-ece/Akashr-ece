@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash R</h1>
-<h3 align="center">Aspiring VLSI Verification Engineer | Passionate about turning ideas into innovation</h3>
+<h3 align="center">Aspiring Electronics and Communication Engineer | Passionate about turning ideas into innovation</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=akashr-ece&label=Profile%20views&color=0e75b6&style=flat" alt="akashr-ece" />
